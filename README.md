@@ -6,4 +6,4 @@ The steps are as follows:
 
 # 2. PRML — examples for pattern recognition and machine learning
 
-## 3. pymc examples
+# 3. pymc examples
