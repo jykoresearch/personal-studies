@@ -1,0 +1,15 @@
+myst-nb
+sphinx==5.0.2 # see https://github.com/pymc-devs/pymc-examples/issues/409
+git+https://github.com/pymc-devs/pymc-sphinx-theme
+sphinx-design
+sphinx-copybutton
+sphinxcontrib-bibtex
+ablog<0.10.27 # ablog 0.10.27 is broken see https://github.com/sunpy/ablog/issues/151
+sphinxext-opengraph
+sphinx-codeautolink
+sphinx-notfound-page
+nbsphinx
+sphinx-gallery==0.10.1 # see https://github.com/pymc-devs/pymc-examples/issues/409
+matplotlib
+sphinxext-rediraffe
+sphinx-remove-toctrees

@@ -1,0 +1,9 @@
+jupyterlab
+notebook
+pymc3
+black
+codespell
+ipython
+pre-commit>=2.8.0
+pandas
+watermark
